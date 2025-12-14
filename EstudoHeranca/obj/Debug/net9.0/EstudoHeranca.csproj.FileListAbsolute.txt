@@ -1,0 +1,14 @@
+C:\Users\Niick\RiderProjects\EstudoHeranca\EstudoHeranca\bin\Debug\net9.0\EstudoHeranca.exe
+C:\Users\Niick\RiderProjects\EstudoHeranca\EstudoHeranca\bin\Debug\net9.0\EstudoHeranca.deps.json
+C:\Users\Niick\RiderProjects\EstudoHeranca\EstudoHeranca\bin\Debug\net9.0\EstudoHeranca.runtimeconfig.json
+C:\Users\Niick\RiderProjects\EstudoHeranca\EstudoHeranca\bin\Debug\net9.0\EstudoHeranca.dll
+C:\Users\Niick\RiderProjects\EstudoHeranca\EstudoHeranca\bin\Debug\net9.0\EstudoHeranca.pdb
+C:\Users\Niick\RiderProjects\EstudoHeranca\EstudoHeranca\obj\Debug\net9.0\EstudoHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niick\RiderProjects\EstudoHeranca\EstudoHeranca\obj\Debug\net9.0\EstudoHeranca.AssemblyInfoInputs.cache
+C:\Users\Niick\RiderProjects\EstudoHeranca\EstudoHeranca\obj\Debug\net9.0\EstudoHeranca.AssemblyInfo.cs
+C:\Users\Niick\RiderProjects\EstudoHeranca\EstudoHeranca\obj\Debug\net9.0\EstudoHeranca.csproj.CoreCompileInputs.cache
+C:\Users\Niick\RiderProjects\EstudoHeranca\EstudoHeranca\obj\Debug\net9.0\EstudoHeranca.dll
+C:\Users\Niick\RiderProjects\EstudoHeranca\EstudoHeranca\obj\Debug\net9.0\refint\EstudoHeranca.dll
+C:\Users\Niick\RiderProjects\EstudoHeranca\EstudoHeranca\obj\Debug\net9.0\EstudoHeranca.pdb
+C:\Users\Niick\RiderProjects\EstudoHeranca\EstudoHeranca\obj\Debug\net9.0\EstudoHeranca.genruntimeconfig.cache
+C:\Users\Niick\RiderProjects\EstudoHeranca\EstudoHeranca\obj\Debug\net9.0\ref\EstudoHeranca.dll
