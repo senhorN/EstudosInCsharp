@@ -52,7 +52,7 @@ public class Curso
        {
            Console.WriteLine($"O aluno {aluno.Nome} tem {aluno.idade} anos. \n e sua situação é {aluno.Situacao}: Approvado.");
        }
-       else
+       else //teste
        {
            Console.WriteLine($"O aluno {aluno.Nome} tem {aluno.idade} anos. \n e sua situação é {aluno.Situacao}: Reprovado.");
        }
