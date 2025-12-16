@@ -12,3 +12,4 @@ C:\Users\Niick\RiderProjects\EstudoHeranca\EstudoHeranca\obj\Debug\net9.0\refint
 C:\Users\Niick\RiderProjects\EstudoHeranca\EstudoHeranca\obj\Debug\net9.0\EstudoHeranca.pdb
 C:\Users\Niick\RiderProjects\EstudoHeranca\EstudoHeranca\obj\Debug\net9.0\EstudoHeranca.genruntimeconfig.cache
 C:\Users\Niick\RiderProjects\EstudoHeranca\EstudoHeranca\obj\Debug\net9.0\ref\EstudoHeranca.dll
+C:\Users\Niick\RiderProjects\EstudoHeranca\EstudoHeranca\obj\Debug\net9.0\EstudoHeranca.sourcelink.json
